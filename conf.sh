@@ -6,7 +6,7 @@ openzfs_version="2.2.7"
 openzfs_rc_version="2.3.0-rc3"
 
 # The OpenZFS source hashes are from github.com/openzfs/zfs/releases
-zfs_src_hash="c92e02103ac5dd77bf01d7209eabdca55c7b3356aa747bb2357ec4222652a2a7"
+zfs_src_hash="b2b8e3bfabf2a6407a0132243726cb6762547a5bd095b1b1f37eaf2a9d8f7672"
 zfs_rc_src_hash="8627702ac841d38d5211001c76937e4097719c268b110e8836c0da195618fad2"
 
 zfs_initcpio_install_hash="d19476c6a599ebe3415680b908412c8f19315246637b3a61e811e2e0961aea78"
